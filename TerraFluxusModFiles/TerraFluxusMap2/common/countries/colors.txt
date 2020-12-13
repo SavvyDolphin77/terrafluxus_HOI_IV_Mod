@@ -1,0 +1,10 @@
+#reload countrycolors
+
+PAX = {
+	color = rgb { 64  254  167 }
+	color_ui = rgb { 138 155 116 }
+}
+SOL = {
+	color = rgb { 64  160  167 }
+	color_ui = rgb { 255 73 121 }
+}
